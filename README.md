@@ -1,4 +1,3 @@
-# Differential Self-Driving Robot (BumperBot)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # IoT Occupancy Estimation
