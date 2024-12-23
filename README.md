@@ -1,3 +1,6 @@
+# Differential Self-Driving Robot (BumperBot)
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # IoT Occupancy Estimation
 
 This repository contains the implementation of an IoT-based occupancy estimation system. Using advanced data preprocessing techniques and machine learning models, it aims to estimate occupancy in real-time based on environmental sensor data. The primary focus is to improve the accuracy and efficiency of predictions, making it suitable for smart building applications.
@@ -112,3 +115,7 @@ Contributions are welcome! To contribute:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/giuseppe-rumore-b2599961
