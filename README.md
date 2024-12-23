@@ -38,7 +38,7 @@ This repository contains the implementation of an IoT-based occupancy estimation
 
 3. Create a new conda environment:
    ```bash
-   conda create --name iot_occupancy_env python=3.8
+   conda create --name iot_occupancy_env python=3.10
    conda activate iot_occupancy_env
    ```
 
